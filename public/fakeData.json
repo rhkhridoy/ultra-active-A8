@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Dumble",
+    "picture": "https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5008.jpg?w=996&t=st=1664380258~exp=1664380858~hmac=fc2f10efd5b2f68c715287467bdf769457306cdc087875422f67dbd91d41a222",
+    "time": "30s",
+    "info": "For over 20 years we have helped thousands of gym owners complete their fitness projects on time and within budget"
+  },
+  {
+    "id": 2,
+    "name": "50KG Weight",
+    "picture": "https://timesofindia.indiatimes.com/thumb/msid-73042762,imgsize-373248,width-400,resizemode-4/73042762.jpg",
+    "time": "40s",
+    "info": "For over 20 years we have helped thousands of gym owners complete their fitness projects on time and within budget"
+  },
+  {
+    "id": 3,
+    "name": "Treadmill",
+    "picture": "https://img.etimg.com/thumb/width-640,height-480,imgsize-51168,resizemode-1,msid-89199209/news/india/gym-owners-want-delhi-govt-and-ddma-to-open-gyms-at-50-capacity/working-out-in-the-gym.jpg",
+    "time": "50s",
+    "info": "For over 20 years we have helped thousands of gym owners complete their fitness projects on time and within budget"
+  },
+  {
+    "id": 4,
+    "name": "150 KG Weight",
+    "picture": "https://www.latrobe.edu.au/galleries/gym-bendigo/LTU-Sports-Centre-23.jpg",
+    "time": "45s",
+    "info": "For over 20 years we have helped thousands of gym owners complete their fitness projects on time and within budget"
+  },
+  {
+    "id": 5,
+    "name": "Lifting-weights",
+    "picture": "https://www.helpguide.org/wp-content/uploads/resistance-band-woman-doing-leg-workout-768.jpg",
+    "time": "55s",
+    "info": "For over 20 years we have helped thousands of gym owners complete their fitness projects on time and within budget"
+  },
+  {
+    "id": 6,
+    "name": "Kateboarder",
+    "picture": "https://media.istockphoto.com/photos/cute-brunette-working-out-at-a-gym-picture-id459880391?k=20&m=459880391&s=612x612&w=0&h=Rn8tPBeKlnePDP1gihLK08mawqqAcf2yLXfvUWcfHJU=",
+    "time": "35s",
+    "info": "For over 20 years we have helped thousands of gym owners complete their fitness projects on time and within budget"
+  },
+  {
+    "id": 7,
+    "name": "weights-supervised",
+    "picture": "https://www.gethow.org/wp-content/uploads/2020/12/gym-routine.jpg",
+    "time": "25s",
+    "info": "For over 20 years we have helped thousands of gym owners complete their fitness projects on time and within budget"
+  },
+  {
+    "id": 8,
+    "name": "camptype",
+    "picture": "https://media.gettyimages.com/photos/difficult-doesnt-mean-impossible-picture-id615883260?s=612x612",
+    "time": "30s",
+    "info": "For over 20 years we have helped thousands of gym owners complete their fitness projects on time and within budget"
+  },
+  {
+    "id": 9,
+    "name": "Training-dumbbells",
+    "picture": "https://img.freepik.com/free-photo/young-healthy-man-athlete-doing-exercise-with-ropes-gym-single-male-model-practicing-hard-training-his-upper-body-concept-healthy-lifestyle-sport-fitness-bodybuilding-wellbeing_155003-27879.jpg?w=2000",
+    "time": "15s",
+    "info": "For over 20 years we have helped thousands of gym owners complete their fitness projects on time and within budget"
+  }
+]

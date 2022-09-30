@@ -1,0 +1,31 @@
+.item {
+  height: 470px;
+  width: 250px;
+  border-radius: 15px;
+  box-shadow: 5px 4px 6px grey;
+  background-color: rgb(12, 93, 93);
+  color: aliceblue;
+  padding: 10px;
+}
+.item img {
+  width: 220px;
+  height: 150px;
+  margin-left: 10px;
+}
+
+.item p {
+  margin-left: -4px;
+}
+.item button {
+  width: 100%;
+  color: rgb(249, 246, 246);
+  background-color: rgb(18, 98, 88);
+  border-radius: 5px;
+  padding: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  transition: 1s;
+}
+.item button:hover {
+  background-color: rgb(31, 127, 40);
+}
